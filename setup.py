@@ -4,7 +4,7 @@ setup(
     name='mpltransform',
     version='0.1',
     description='Custom transforms for matplotlib',
-    url='https://github.com/alastairgarner/mpltransform',
+    url='git@github.com:alastairgarner/mpltransform.git',
     author='Alastair G',
     author_email='garneralastair@gmail.com',
     license='MIT',
